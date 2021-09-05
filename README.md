@@ -1,9 +1,9 @@
 ## Trabajo práctico final de la asignatura DCI ##
 Este repositorio contiene el trabajo práctico final para la asignatura de Diseño de Circuitos Impresos de la carrera de posgrado de FIUBA.
 
-* Autor: XXXXCOMPLETARXXXX
-* Título corto del trabajo:  XXXXCOMPLETARXXXX
-* Descripción:  XXXXCOMPLETARXXXX
+* Autor: Nicolás Vargas Alice
+* Título corto del trabajo:  Conversor DC/DC
+* Descripción: Conversor DC/DC para proyectos que requieran cambios de tensiones DC en proyectos de electrónica. Placa desarrollada por la empresa Adafruit Industries.
 
 
 ## Licencia de este trabajo ##
