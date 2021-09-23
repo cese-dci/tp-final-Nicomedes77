@@ -1,6 +1,6 @@
 ## Archivos Kicad ##
 
-En este directorio debería ir:
+En este directorio se incluyen:
 
 * Archivos de proyecto.
 * Esquemático.
