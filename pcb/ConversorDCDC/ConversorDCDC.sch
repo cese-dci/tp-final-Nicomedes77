@@ -10,7 +10,7 @@ Rev "1.0"
 Comp "Nicolás Vargas Alice - Curso DCI"
 Comment1 "Trabajo práctico final"
 Comment2 "LGPL"
-Comment3 ""
+Comment3 "Circuito original: PowerBoost +1000"
 Comment4 ""
 $EndDescr
 $Comp
@@ -757,8 +757,6 @@ Wire Wire Line
 Wire Wire Line
 	4900 4050 5150 4050
 Connection ~ 5150 4050
-Wire Wire Line
-	4300 3250 4950 3250
 Wire Notes Line
 	3300 5200 4550 5200
 Wire Notes Line
@@ -820,8 +818,6 @@ F 3 "~" H 1400 6850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3500 3150 4000 3150
-Wire Wire Line
 	4750 2850 4850 2850
 Connection ~ 4850 2850
 Wire Wire Line
@@ -833,11 +829,12 @@ Wire Wire Line
 	4400 3150 4950 3150
 Wire Wire Line
 	4000 2550 4000 2650
-Wire Wire Line
-	4000 2950 4000 3150
-Connection ~ 4000 3150
-Wire Wire Line
-	4000 3150 4400 3150
 Wire Notes Line
 	4600 2550 4750 1550
+Wire Wire Line
+	3500 3150 4400 3150
+Wire Wire Line
+	4000 2950 4000 3250
+Wire Wire Line
+	4000 3250 4950 3250
 $EndSCHEMATC
