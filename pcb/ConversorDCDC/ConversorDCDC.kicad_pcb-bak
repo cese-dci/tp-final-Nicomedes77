@@ -1268,8 +1268,8 @@
   (gr_text "Diseñado por:\nN.Vargas Alice" (at 82.75 111.75 270) (layer B.Cu)
     (effects (font (size 1.2 1.2) (thickness 0.2)) (justify mirror))
   )
-  (gr_text "PowerBoost 1000 v1" (at 112.5 113.25 90) (layer B.Cu)
-    (effects (font (size 1.2 1.2) (thickness 0.2)) (justify mirror))
+  (gr_text "PowerBoost 1000 \nv1 (IND.ARG)" (at 112 113.25 90) (layer B.Cu)
+    (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
   )
   (gr_text "Mínimos (fabricante): 10 mils\nGrillas: 1mm, 0.5 mm, 0.25 mm\nVias: 0.8/0.4 mm\nMargen: 0.5 mm\nPista: 0.3 mm\nDist. a borde: 0.5 mm\nTerminación: a determinar" (at 128 104.25) (layer Dwgs.User)
     (effects (font (size 1 1) (thickness 0.15)) (justify left))
@@ -1542,7 +1542,7 @@
     )
     (filled_polygon
       (pts
-        (xy 113.875 103.15) (xy 110.986 103.15) (xy 110.986 123.35) (xy 113.875001 123.35) (xy 113.875001 123.63)
+        (xy 113.875 105.573809) (xy 109.78 105.573809) (xy 109.78 120.92619) (xy 113.875001 120.92619) (xy 113.875001 123.63)
         (xy 110.276191 123.63) (xy 110.276191 125.875) (xy 80.625 125.875) (xy 80.625 118.964286) (xy 81.212312 118.964286)
         (xy 81.174636 119.001962) (xy 80.917457 119.386857) (xy 80.740309 119.81453) (xy 80.65 120.268545) (xy 80.65 120.731455)
         (xy 80.740309 121.18547) (xy 80.917457 121.613143) (xy 81.174636 121.998038) (xy 81.501962 122.325364) (xy 81.886857 122.582543)
